@@ -1,2 +1,2 @@
 # virtual-acoustics
-Codebase for Nathan Keil's Master's Thesis on polyphonic pitch perception in rooms using deep learning networks with data rendered in virtual acoustic environments
+Codebase developed by Nathan Keil for his master's thesis at Rensselaer Polytechnic Institute. It contains resources for generating virtual acoustic data to train a model on polyphonic pitch perception in rooms.
